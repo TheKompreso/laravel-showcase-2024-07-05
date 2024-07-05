@@ -7,10 +7,10 @@
 - [Postman](https://www.postman.com)
 ## Установка
 1. Скачайте проект:
-   - Вариант 1: скачайте [архив](https://github.com/TheKompreso/answer-lara-equipment-api/archive/refs/heads/master.zip) с проектом  и разархивируйте в нужную папку.
+   - Вариант 1: скачайте [архив](https://github.com/TheKompreso/laravel-showcase-2024-07-05/archive/refs/heads/master.zip) с проектом  и разархивируйте в нужную папку.
    - Вариант 2: с помощью git clone:
 ```
-git clone https://github.com/TheKompreso/answer-lara-equipment-api
+git clone https://github.com/TheKompreso/laravel-showcase-2024-07-05
 ```
 2. Обновите зависимости проекта. В консоли перейдите в корневую папку с проектом и выполните команду:
 ```
